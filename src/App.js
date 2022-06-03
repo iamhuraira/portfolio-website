@@ -1,4 +1,5 @@
-import './App.css';
+// import './App.css';
+import './index.css';
 import Hero from './components/Hero/Hero'; 
 
 function App() {
