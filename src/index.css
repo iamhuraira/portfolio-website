@@ -14,6 +14,12 @@ body{
 .primaryBackgroud{
   color : #16C79A;
 }
+.grey{
+  color: #aaaaaa;
+}
+.textColor{
+  color: #323232;
+}
 .font-10{
   font-size : 10px;
 }
@@ -89,4 +95,7 @@ body{
   margin: 0 auto;
   position: relative;
 }
-
+a{
+  text-decoration: none;
+  color: #323232;
+}
