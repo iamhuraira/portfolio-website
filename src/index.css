@@ -53,6 +53,9 @@ body{
 .bold-500{
   font-weight: 500;
 }
+.bold-600{
+  font-weight: 600;
+}
 .bold-700{
   font-weight: 700;
 }
@@ -80,6 +83,9 @@ body{
 }
 .flex-row{
   display: flex;
+}
+.wrap{
+  flex-wrap: wrap;
 }
 .justify-content{
   justify-content: space-between;
