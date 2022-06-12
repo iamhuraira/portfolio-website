@@ -1,0 +1,13 @@
+.meLeftImgcontainer {
+  width: 276px;
+  height: 500px;
+  /* overflow: hidden; */
+  /* position: absolute; */
+  /* z-index: -1;
+  top: -11px; */
+}
+.meLeftImgcontainer img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}

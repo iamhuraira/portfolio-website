@@ -1,11 +1,13 @@
-.meLeftimgcontainer{
-    width: 276px;
-    height: 545px;
-    overflow: hidden;
-    position: absolute;
+.meLeftimgcontainer {
+  width: 276px;
+  height: 545px;
+  overflow: hidden;
+  position: absolute;
+  z-index: -1;
+  top: -11px;
 }
-.meLeftimgcontainer img{
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
+.meLeftimgcontainer img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
 }
