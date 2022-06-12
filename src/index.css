@@ -84,6 +84,9 @@ body{
 .flex-row{
   display: flex;
 }
+.m-auto{
+  margin: 0 auto;
+}
 .wrap{
   flex-wrap: wrap;
 }

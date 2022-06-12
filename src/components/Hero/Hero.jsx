@@ -1,6 +1,6 @@
 import React from 'react';
 import './style.css';
-import me from '../../assets/images/3-removebg.png';
+import me from '../../assets/images/me.png';
 import Button from '../UI/Button';
 
 const Hero = () => {

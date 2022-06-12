@@ -1,11 +1,11 @@
-.meRightimgcontainer{
+.meLeftimgcontainer{
     width: 276px;
-    height: 500px;
+    height: 545px;
     overflow: hidden;
+    position: absolute;
 }
-.meRightimgcontainer img{
+.meLeftimgcontainer img{
     height: 100%;
     width: 100%;
     object-fit: cover;
 }
-
