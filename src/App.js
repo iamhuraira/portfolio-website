@@ -5,6 +5,7 @@ import Specializing from './components/Specializing/Specializing';
 import Experties from './components/Experties/Experties';
 import PortfolioProjects from './components/LargestProject/PortfolioProjects';
 import Education from './components/Education/Education';
+import Testimonial from './components/Testimonials/Testimonial';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Experties />
       <PortfolioProjects />
       <Education />
+      <Testimonial />
       
     </div>
   );
